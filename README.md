@@ -58,7 +58,3 @@ jupyter notebook
 ```
 
 ---
-
-## 📸 Visuals
-
-![Decision Tree](images/tree.png)
